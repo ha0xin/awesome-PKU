@@ -1,4 +1,4 @@
-# 🏛️ awesome-PKU
+# awesome-PKU
 
 北京大学开源资料汇总 | Peking University Open Source Resources Collection
 
@@ -16,6 +16,7 @@
 ## 🛠️ 工具
 
 - [PKU-Art](https://github.com/zhuozhiyongde/PKU-Art) - 一个北大教学网的美化样式
+- [pku3b](https://github.com/sshwy/pku3b) - 北京大学教学网命令行工具
 
 ## 📚 课程资料
 
@@ -40,7 +41,7 @@
 
 ## 📄 论文模板
 
-- [pkuthss](https://github.com/CasperVector/pkuthss) - 📝 LaTeX template for dissertations in Peking University
+- [pkuthss](https://github.com/CasperVector/pkuthss) - LaTeX template for dissertations in Peking University
 
 ## ⭐ Star History
 
