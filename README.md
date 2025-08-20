@@ -39,6 +39,20 @@
 
 </details>
 
+<details>
+<summary><strong>随机算法</strong></summary>
+
+- [jiacongfang/Randomized_Algorithm-kyq-2025Spring-PKU](https://github.com/jiacongfang/Randomized_Algorithm-kyq-2025Spring-PKU) - Homeworks of Randomized Algorithm course in PKU, 2025Spring
+
+</details>
+
+<details>
+<summary><strong>高等数学（B）</strong></summary>
+
+- [谢彦桐讲义](https://darkoxie.github.io/)
+
+</details>
+
 ## 📄 论文模板
 
 - [pkuthss](https://github.com/CasperVector/pkuthss) - LaTeX template for dissertations in Peking University
