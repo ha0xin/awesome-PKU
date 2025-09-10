@@ -20,6 +20,10 @@
 
 ## 📚 课程资料
 
+### 资料网站
+- [PKUHUB](https://pkuhub.cn) - 北京大学校内资料共享平台
+- [PKUHUB(仅校园网访问)](https://i.pkuhub.cn)
+
 ### 资料合集
 
 <details>
