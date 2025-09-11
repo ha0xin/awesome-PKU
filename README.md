@@ -21,8 +21,7 @@
 ## 📚 课程资料
 
 ### 资料网站
-- [PKUHUB](https://pkuhub.cn) - 北京大学校内资料共享平台
-- [PKUHUB(仅校园网访问)](https://i.pkuhub.cn)
+- [PKUHUB](https://pkuhub.cn)/[PKUHUB(仅校园网访问)](https://i.pkuhub.cn) - 北京大学校内资料共享平台
 
 ### 资料合集
 
@@ -54,6 +53,13 @@
 <summary><strong>高等数学（B）</strong></summary>
 
 - [谢彦桐讲义](https://darkoxie.github.io/)
+
+</details>
+
+<details>
+<summary><strong>地震概论</strong></summary>
+
+- [《地震概论》2019年秋季学期（周四班）笔记 - Xzonn的学习资料库](https://xzonn.top/study/Introduction-to-Seismology-Notes.html)
 
 </details>
 
