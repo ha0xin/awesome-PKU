@@ -28,7 +28,7 @@
 <details>
 <summary><strong>综合资料</strong></summary>
 
-- [vwOvOwv/PKU-Undergraduate-Course-Public](https://github.com/vwOvOwv/PKU-Undergraduate-Course-Public) - PKU course materials on computer science & life sciences.
+- [vwOvOwv/PKU-Undergraduate-Course-Public](https://github.com/vwOvOwv/PKU-Undergraduate-Course-Public) - PKU course materials on computer science & life sciences. 注意有两个分支，分别是 computer science 和 life science
 - [tongtzeho/PKUCourse](https://github.com/tongtzeho/PKUCourse) - 北京大学信息学院计算机系 本科&研究生课程大作业选集
 - [CS-icez/pku-cs-homework](https://github.com/CS-icez/pku-cs-homework) - PKU CS专业课作业
 - [Xzonn 的本科学习资料库](https://xzonn.top/study/) - 包含了一些环境学院的本科专业课程资料
